@@ -7,11 +7,11 @@ def run_app_ota():
     # List of files to download
     download_list = [
         {
-            'url': 'https://raw.githubusercontent.com/SumeriLal/quectel_ota/main/main.py',
+            'url': 'https://raw.githubusercontent.com/SumeriLal/gangotree_palleting_machine/main/main.py',
             'file_name': '/usr/main.py'
         },
         {
-            'url': 'https://raw.githubusercontent.com/SumeriLal/quectel_ota/main/modbus_setting_update_oncycle_count.py',
+            'url': 'https://raw.githubusercontent.com/SumeriLal/gangotree_palleting_machine/main/modbus_setting_update_oncycle_count.py',
             'file_name': '/usr/modbus_setting_update_oncycle_count.py'
         },
         {
