@@ -470,7 +470,7 @@ REG_COUNT = (END_REG - START_REG) + 2   # Inclusive, float = 2 regs
 
 EPM35_PARAM_MAP = {
     # kWh
-    "kWh": 6,
+    "kWh": 28,
     "kVArh": 10,
 
     # Voltages
