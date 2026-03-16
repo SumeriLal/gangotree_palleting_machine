@@ -11,28 +11,32 @@ def run_app_ota():
             'file_name': '/usr/main.py'
         },
         {
-            'url': 'https://raw.githubusercontent.com/SumeriLal/gangotree_palleting_machine/main/modbus_setting_update_oncycle_count.py',
-            'file_name': '/usr/modbus_setting_update_oncycle_count.py'
+            'url': 'https://raw.githubusercontent.com/SumeriLal/gangotree_palleting_machine/main/modbus_plc.py',
+            'file_name': '/usr/modbus_plc.py'
         },
         {
-            'url': 'https://raw.githubusercontent.com/SumeriLal/quectel_ota/main/modbus_RTU_update_onChange.py',
-            'file_name': '/usr/modbus_RTU_update_onChange.py'
+            'url': 'https://raw.githubusercontent.com/SumeriLal/gangotree_palleting_machine/main/epm_35_m1_energy_meter.py',
+            'file_name': '/usr/epm_35_m1_energy_meter.py'
         },
         {
-            'url': 'https://raw.githubusercontent.com/SumeriLal/quectel_ota/main/app_ota.py',
+            'url': 'https://raw.githubusercontent.com/SumeriLal/gangotree_palleting_machine/main/app_ota.py',
             'file_name': '/usr/app_ota.py'
         },
         {
-            'url': 'https://raw.githubusercontent.com/SumeriLal/quectel_ota/main/ota_handler.py',
-            'file_name': '/usr/ota_handler.py'
+            'url': 'https://raw.githubusercontent.com/SumeriLal/gangotree_palleting_machine/main/inclinometer.py',
+            'file_name': '/usr/inclinometer.py'
         },
         {
-            'url': 'https://raw.githubusercontent.com/SumeriLal/quectel_ota/main/device_credentials.py',
+            'url': 'https://raw.githubusercontent.com/SumeriLal/gangotree_palleting_machine/main/device_credentials.py',
             'file_name': '/usr/device_credentials.py'
         },
         {
-            'url': 'https://raw.githubusercontent.com/SumeriLal/quectel_ota/main/main2_components.py',
+            'url': 'https://raw.githubusercontent.com/SumeriLal/gangotree_palleting_machine/main/main2_components.py',
             'file_name': '/usr/main2_components.py'
+        },
+        {
+            'url': 'https://raw.githubusercontent.com/SumeriLal/gangotree_palleting_machine/main/noise_sensor.py',
+            'file_name': '/usr/noise_sensor.py'
         }
     ]
 
